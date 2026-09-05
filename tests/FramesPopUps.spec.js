@@ -40,4 +40,4 @@ test.only('Visual Test', async ({ page }) =>
     await page.goto("https://parabank.parasoft.com/parabank/index.htm");
     expect(await page.screenshot()).toMatchSnapshot('landingPage.png');
     
-});
+}); 
