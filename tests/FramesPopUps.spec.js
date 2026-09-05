@@ -17,7 +17,7 @@ test('frames and Pop Ups Test', async ({ page }) =>
     await page.getByRole('button', { name: 'Mouse Hover' }).hover();
     const framePage = page.frameLocator("#courses-iframe");
     await framePage.getByText("VIEW ALL COURSES").click();
-});
+}); 
 
 test('screenshot and partial screenshot Test', async ({ page }) => 
     {
