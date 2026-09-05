@@ -13,7 +13,7 @@ jobs:
 
     env:
       # Use the Playwright Service URL from GitHub Secrets
-      PLAYWRIGHT_SERVICE_URL: ${{ secrets.PLAYWRIGHT_SERVICE_URL }}
+      PLAYWRIGHT_SERVICE_URL: ${{ vars.PLAYWRIGHT_SERVICE_URL }}
 
     steps:
       - uses: actions/checkout@v4 
