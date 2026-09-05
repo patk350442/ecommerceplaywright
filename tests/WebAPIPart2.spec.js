@@ -16,7 +16,7 @@ test.beforeAll(async ({browser}) => {
     webContext= await browser.newContext({storageState:'state.json'});
 });
 
-test.only('Test-storageState 1', async ({  }) => {
+test('Test-storageState 1', async ({  }) => {
 
     const page= await webContext.newPage();
     const email = "pratik350442@gmail.com";
@@ -91,7 +91,7 @@ test.only('Test-storageState 1', async ({  }) => {
 });
 
 
-test.only('Test-storageState 2', async ({  }) => {
+test('Test-storageState 2', async ({  }) => {
 
     const page= await webContext.newPage();
     const email = "pratik350442@gmail.com";
