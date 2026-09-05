@@ -19,10 +19,9 @@ jobs:
       uses: azure/login@v1
       with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
-      env:
-      # Use the Playwright Service URL from GitHub Secrets
-      PLAYWRIGHT_SERVICE_URL: ${{ secrets.PLAYWRIGHT_SERVICE_URL }}
     - name: Run Playwright tests
+      env:
+      PLAYWRIGHT_SERVICE_URL: ${{ secrets.PLAYWRIGHT_SERVICE_URL }}
       run:  npx playwright test --config=playwright.service.config.js --workers=2
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
