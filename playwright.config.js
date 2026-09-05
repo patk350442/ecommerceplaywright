@@ -7,7 +7,7 @@ import { trace } from 'node:console';
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
-const config = (
+export const config = (
   {
     testDir: './tests',
     timeout: 30 * 1000,
@@ -28,6 +28,7 @@ const config = (
     
     actionTimeout: 10*1000,
     navigationTimeout: 30*1000,
+  
   }, 
 
 
