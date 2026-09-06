@@ -22,7 +22,7 @@ export const config = (
   {
 
     browserName: 'chromium',
-    headless: false, 
+    headless: true, 
     screenshot: 'on',
     trace: 'retain-on-failure',
     video: 'retain-on-failure', 
