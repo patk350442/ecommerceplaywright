@@ -16,7 +16,7 @@ export const config = (
                 timeout: 5000,
             },
   
-  reporter: 'html',
+  reporter: [['html'],['allure-playwright']],
   
   use: 
   {
@@ -24,7 +24,8 @@ export const config = (
     browserName: 'chromium',
     headless: false, 
     screenshot: 'on',
-    trace: 'retain-on-failure', 
+    trace: 'retain-on-failure',
+    video: 'retain-on-failure', 
     
     actionTimeout: 10*1000,
     navigationTimeout: 30*1000,

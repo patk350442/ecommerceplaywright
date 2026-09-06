@@ -1,11 +1,11 @@
 name: Playwright Tests
-
+#also removed git repo settings >rulesets> Require status checks to pass> add test to enable again
 # --- Disabled triggers ---
-#on:
-#  push:
-#    branches: [main, master]
-#  pull_request:
-#    branches: [main, master]
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
 
 jobs:
   test:
