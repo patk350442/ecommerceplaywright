@@ -63,10 +63,14 @@ const config = (
 
             actionTimeout: 10*1000,
             navigationTimeout: 30*1000,
+            
         } 
     }
   ] 
 
+
+  
+//fullyParallel: true
 
 
 
