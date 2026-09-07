@@ -1,5 +1,6 @@
-name: Playwright Tests
-
+name: Azure Playwright Workspace
+#also removed git repo settings >rulesets> Require status checks to pass> add test to enable again
+# --- Disabled triggers ---
 on:
   push:
     branches: [main, master]

@@ -40,14 +40,22 @@ async function readExcel(worksheet,searchText)
 test('upload and download excel test',async ({page})=>{
 
     const searchText ='Mango';
-    const replaceText ='999';
-     const replaceText1 ='899';
+    const replaceText ='99';
+    const replaceText1 ='899';
     const filePath='C:\\Users\\DELL\\Downloads\\download.xlsx';
     await page.goto('https://rahulshettyacademy.com/upload-download-test/index.html');
-    const downloadPromise=page.waitForEvent('download');
-    await page.getByRole('button',{name:'Download'}).click();
-    const downloadfile= await downloadPromise; 
-    await downloadfile.saveAs(filePath);
+   // const downloadPromise=page.waitForEvent('download');
+    //await page.getByRole('button',{name:'Download'}).click();
+    //const downloadfile= await downloadPromise; 
+    //await downloadfile.saveAs(filePath);
+    const [download]=await Promise.all(
+    [
+        page.waitForEvent('download'),
+        await page.getByRole('button',{name:'Download'}).click()
+
+    ])
+    await download.saveAs(filePath);
+
     await writeExcelTest(searchText, replaceText, {rowChange:0,columnChange:2},filePath);
     await page.locator("#fileinput").click();
     await page.locator("#fileinput").setInputFiles('C:\\Users\\DELL\\Downloads\\download.xlsx');
@@ -56,7 +64,7 @@ test('upload and download excel test',async ({page})=>{
     const textLocator=page.getByText(searchText);
     const value=await page.getByRole('row').filter({has :textLocator}).locator("#cell-4-undefined").textContent();
     expect(value===replaceText).toBeTruthy();
-    await expect(page.getByRole('row').filter({has :textLocator}).locator("#cell-4-undefined")).toContainText(replaceText1);
+    await expect(page.getByRole('row').filter({has :textLocator}).locator("#cell-4-undefined")).toContainText(replaceText);
  
   // const count=await rows.count(); //dont use this . it doesnt pass
 

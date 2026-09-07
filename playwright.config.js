@@ -7,7 +7,7 @@ import { trace } from 'node:console';
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
-const config = (
+export const config = (
   {
     testDir: './tests',
     timeout: 30 * 1000,
@@ -16,7 +16,7 @@ const config = (
                 timeout: 5000,
             },
   
-  reporter: 'html',
+  reporter: [['html'],['allure-playwright']],
   
   use: 
   {
@@ -24,10 +24,12 @@ const config = (
     browserName: 'chromium',
     headless: false, 
     screenshot: 'on',
-    trace: 'retain-on-failure', 
+    trace: 'retain-on-failure',
+    video: 'retain-on-failure', 
     
     actionTimeout: 10*1000,
     navigationTimeout: 30*1000,
+  
   }, 
 
 
