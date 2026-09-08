@@ -1,0 +1,481 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e4]:
+          - link [ref=e6] [cursor=pointer]:
+            - /url: /
+            - img "Vijayanand Travels Travels" [ref=e7]
+          - generic [ref=e8]:
+            - generic [ref=e11]:
+              - navigation:
+                - list [ref=e13]:
+                  - listitem [ref=e14]:
+                    - link "Home" [ref=e15] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=e16]:
+                    - link "About" [ref=e17] [cursor=pointer]:
+                      - /url: /aboutus
+                  - listitem [ref=e18]:
+                    - link "Contact" [ref=e19] [cursor=pointer]:
+                      - /url: /contactus
+                  - listitem [ref=e20]:
+                    - link "Popular Destinations" [ref=e21] [cursor=pointer]:
+                      - /url: /toproute
+                  - listitem [ref=e22]:
+                    - link "Modify" [ref=e23] [cursor=pointer]:
+                      - /url: /modifyticket
+                  - listitem [ref=e24]:
+                    - link "New Route Suggestion" [ref=e25] [cursor=pointer]:
+                      - /url: /routesuggestion
+            - generic [ref=e26]: Sign in / Sign up
+        - generic [ref=e7049]:
+          - generic:
+            - generic [ref=e7052]:
+              - generic [ref=e7053]:
+                - generic [ref=e7055]:
+                  - generic [ref=e7056]: From
+                  - generic [ref=e7059]:
+                    - combobox "Source" [ref=e7060]: Banahatti (Karnataka)
+                    - button "Open" [ref=e7062] [cursor=pointer]
+                - generic [ref=e7064]:
+                  - generic [ref=e7065]: To
+                  - generic [ref=e7068]:
+                    - combobox "Destination" [ref=e7069]: Bangalore (Karnataka)
+                    - button "Open" [ref=e7071] [cursor=pointer]
+              - generic [ref=e7073]:
+                - generic [ref=e7074] [cursor=pointer]: 
+                - textbox "Departing" [ref=e7076]: 03-10-2026
+                - generic [ref=e7077] [cursor=pointer]: 
+              - button "Search" [ref=e7080] [cursor=pointer]
+              - generic [ref=e7081]: All bus ratings include safety as a major factor
+            - generic [ref=e7083]:
+              - generic [ref=e7085]:
+                - generic:
+                  - generic:
+                    - generic [ref=e7086]:
+                      - generic [ref=e7087]:
+                        - generic [ref=e7088]: Filters
+                        - generic [ref=e7089] [cursor=pointer]: Clear All Filters
+                      - generic [ref=e7090]:
+                        - checkbox "Live Tracking" [ref=e7091]
+                        - generic [ref=e7092]: Live Tracking
+                    - group [ref=e7093]:
+                      - generic "Departure Time " [ref=e7094] [cursor=pointer]:
+                        - generic [ref=e7095]: Departure Time
+                        - generic [ref=e7096]: 
+                    - group [ref=e7098]:
+                      - generic "Arrival Time " [ref=e7099] [cursor=pointer]:
+                        - generic [ref=e7100]: Arrival Time
+                        - generic [ref=e7101]: 
+                    - generic [ref=e7103]:
+                      - generic [ref=e7104]: Bus Type
+                      - generic [ref=e7105]:
+                        - generic [ref=e7106]:
+                          - checkbox "AC Seater" [ref=e7107]
+                          - generic [ref=e7108]: AC Seater
+                        - generic [ref=e7109]:
+                          - checkbox "AC Sleeper" [ref=e7110]
+                          - generic [ref=e7111]: AC Sleeper
+                        - generic [ref=e7112]:
+                          - checkbox "AC Seater/Sleeper" [ref=e7113]
+                          - generic [ref=e7114]: AC Seater/Sleeper
+                        - generic [ref=e7115]:
+                          - checkbox "Non AC Seater" [ref=e7116]
+                          - generic [ref=e7117]: Non AC Seater
+                    - generic [ref=e7118]:
+                      - generic [ref=e7119]: Pickup Place
+                      - generic [ref=e7120]:
+                        - textbox [ref=e7121]
+                        - generic [ref=e7122]: 
+                      - generic [ref=e7124]:
+                        - checkbox "Near Bustand Banahatti" [ref=e7125]
+                        - generic [ref=e7126]: Near Bustand Banahatti
+                    - generic [ref=e7127]:
+                      - generic [ref=e7128]: Dropping Point
+                      - generic [ref=e7129]:
+                        - textbox [ref=e7130]
+                        - generic [ref=e7131]: 
+                      - generic [ref=e7132]:
+                        - generic [ref=e7133]:
+                          - checkbox "Anand Rao Circle Vrl Bus Terminal" [ref=e7134]
+                          - generic [ref=e7135]: Anand Rao Circle Vrl Bus Terminal
+                        - generic [ref=e7136]:
+                          - checkbox "Nelamangala By Pass" [ref=e7137]
+                          - generic [ref=e7138]: Nelamangala By Pass
+                        - generic [ref=e7139]:
+                          - checkbox "Parle-G Toll" [ref=e7140]
+                          - generic [ref=e7141]: Parle-G Toll
+                        - generic [ref=e7142]:
+                          - checkbox "Jalahalli Metro Station" [ref=e7143]
+                          - generic [ref=e7144]: Jalahalli Metro Station
+                        - generic [ref=e7147]:
+                          - paragraph [ref=e7149] [cursor=pointer]: 5 More Dropping Point
+                          - generic [ref=e7150]:
+                            - generic [ref=e7151]:
+                              - checkbox "Yeshwanthpur Metro Station" [ref=e7152]
+                              - generic [ref=e7153]: Yeshwanthpur Metro Station
+                            - generic [ref=e7154]:
+                              - checkbox "Mahalakshmi Layout Metro Station" [ref=e7155]
+                              - generic [ref=e7156]: Mahalakshmi Layout Metro Station
+                            - generic [ref=e7157]:
+                              - checkbox "Rajajinagar Metro Station" [ref=e7158]
+                              - generic [ref=e7159]: Rajajinagar Metro Station
+                            - generic [ref=e7160]:
+                              - checkbox "Goraguntepalya Metro Station" [ref=e7161]
+                              - generic [ref=e7162]: Goraguntepalya Metro Station
+                            - generic [ref=e7163]:
+                              - checkbox "Madavara Metro Station" [ref=e7164]
+                              - generic [ref=e7165]: Madavara Metro Station
+                    - generic [ref=e7166]:
+                      - generic [ref=e7167]: Amenities
+                      - list [ref=e7169]:
+                        - listitem [ref=e7170]:
+                          - paragraph [ref=e7172] [cursor=pointer]: Reading Light
+                        - listitem [ref=e7173]:
+                          - paragraph [ref=e7175] [cursor=pointer]: Fire Extinguisher
+                        - listitem [ref=e7176]:
+                          - paragraph [ref=e7178] [cursor=pointer]: Mobile Charging Point
+                        - listitem [ref=e7179]:
+                          - paragraph [ref=e7181] [cursor=pointer]: M-ticket Supported
+                        - listitem [ref=e7182]:
+                          - paragraph [ref=e7184] [cursor=pointer]: Emergency exit
+                        - listitem [ref=e7185]:
+                          - paragraph [ref=e7187] [cursor=pointer]: Live Bus Tracking
+                        - listitem [ref=e7188]:
+                          - paragraph [ref=e7190] [cursor=pointer]: Hammer
+                        - listitem [ref=e7191]:
+                          - paragraph [ref=e7193] [cursor=pointer]: USB port for charger
+                        - listitem [ref=e7194]:
+                          - paragraph [ref=e7196] [cursor=pointer]: Helpline Number
+              - generic [ref=e7198]:
+                - img "Lottie animation" [ref=e7201]
+                - generic [ref=e7291]:
+                  - generic [ref=e7292]:
+                    - paragraph [ref=e7293]: Banahatti (Karnataka) to Bangalore (Karnataka)
+                    - paragraph [ref=e7294] [cursor=pointer]: + Add Round Trip
+                  - heading "Get flat 15% on all bookings." [level=4] [ref=e7296]
+                - generic [ref=e7297]:
+                  - generic [ref=e7298]:
+                    - generic [ref=e7299]: 1 Buses Found
+                    - generic [ref=e7300]:
+                      - paragraph [ref=e7301]: Sort By
+                      - generic [ref=e7302]:
+                        - paragraph [ref=e7303] [cursor=pointer]: Departure
+                        - paragraph [ref=e7304] [cursor=pointer]: Duration
+                        - paragraph [ref=e7305] [cursor=pointer]: Arrival
+                        - paragraph [ref=e7306] [cursor=pointer]: Ratings
+                        - paragraph [ref=e7307] [cursor=pointer]: Seat Available
+                        - paragraph [ref=e7308] [cursor=pointer]: Fare
+                  - generic [ref=e7310]:
+                    - generic [ref=e7311]:
+                      - generic [ref=e7312]:
+                        - generic [ref=e7313]:
+                          - generic [ref=e7314]: Non A/C Sleeper Super Bus
+                          - generic [ref=e7315]: Non AC / Sleeper
+                          - text: 
+                        - generic [ref=e7316]:
+                          - generic [ref=e7317]:
+                            - generic [ref=e7318]: 05:30 PM
+                            - generic [ref=e7319] [cursor=pointer]:
+                              - text: Boarding
+                              - generic [ref=e7320]: Point
+                          - generic [ref=e7321]: 13h 0m
+                          - generic [ref=e7323]:
+                            - generic [ref=e7324]: 06:30 AM
+                            - generic [ref=e7325] [cursor=pointer]:
+                              - text: Dropping
+                              - generic [ref=e7326]: Point
+                      - generic [ref=e7328]:
+                        - generic [ref=e7329]: 
+                        - generic [ref=e7330]: 4.1/5
+                      - generic [ref=e7331]:
+                        - text: Starts at
+                        - deletion [ref=e7332]:
+                          - generic [ref=e7333]: 
+                          - text: "1000"
+                        - generic [ref=e7334]:
+                          - generic [ref=e7335]: 
+                          - generic [ref=e7336]: "850"
+                        - paragraph [ref=e7337]:
+                          - text: Save
+                          - generic [ref=e7338]: 
+                          - generic [ref=e7339]: "150"
+                    - generic [ref=e7341]:
+                      - generic [ref=e7342]:
+                        - img "AmenitiesIcon" [ref=e7344]
+                        - img "AmenitiesIcon" [ref=e7346]
+                        - img "AmenitiesIcon" [ref=e7348]
+                        - img "AmenitiesIcon" [ref=e7350]
+                      - tablist [ref=e7351]:
+                        - generic [ref=e7352] [cursor=pointer]: About Bus
+                        - generic [ref=e7353] [cursor=pointer]: Reviews
+                        - generic [ref=e7354] [cursor=pointer]: Boarding / Dropping Point
+                        - generic [ref=e7355] [cursor=pointer]: Bus Routes
+                        - generic [ref=e7356]:
+                          - generic [ref=e7357]:
+                            - generic [ref=e7358]: "32"
+                            - text: Seats Available
+                          - paragraph [ref=e7359]:
+                            - generic [ref=e7360]: "22"
+                            - text: Window Seats
+                        - generic [ref=e7364] [cursor=pointer]: 
+                      - tabpanel [ref=e7365]:
+                        - generic [ref=e7435]:
+                          - generic [ref=e7436]:
+                            - generic [ref=e7437]: Boarding Point
+                            - radiogroup [ref=e7441]:
+                              - generic [ref=e7442]:
+                                - generic [ref=e7444]:
+                                  - generic [ref=e7445]:
+                                    - generic [ref=e7446] [cursor=pointer]:
+                                      - radio "Near Bustand Banahatti" [checked] [active] [ref=e7448]
+                                      - generic [ref=e7452]: Near Bustand Banahatti
+                                    - generic [ref=e7453]: 
+                                  - generic [ref=e7455] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7456]: 5:30 PM
+                          - generic [ref=e7457]:
+                            - generic [ref=e7458]:
+                              - text: Dropping Point
+                              - generic [ref=e7602]: (Select Dropping Point)
+                            - radiogroup [ref=e7461]:
+                              - generic [ref=e7462]:
+                                - generic [ref=e7464]:
+                                  - generic [ref=e7465]:
+                                    - generic [ref=e7466] [cursor=pointer]:
+                                      - radio "Nelamangala By Pass" [ref=e7468]
+                                      - generic [ref=e7472]: Nelamangala By Pass
+                                    - generic [ref=e7473]: 
+                                  - generic [ref=e7475] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7476]: 5:00 AM
+                              - generic [ref=e7477]:
+                                - generic [ref=e7479]:
+                                  - generic [ref=e7480]:
+                                    - generic [ref=e7481] [cursor=pointer]:
+                                      - radio "Madavara Metro Station" [ref=e7483]
+                                      - generic [ref=e7487]: Madavara Metro Station
+                                    - generic [ref=e7488]: 
+                                  - generic [ref=e7490] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7491]: 5:15 AM
+                              - generic [ref=e7492]:
+                                - generic [ref=e7494]:
+                                  - generic [ref=e7495]:
+                                    - generic [ref=e7496] [cursor=pointer]:
+                                      - radio "Parle-G Toll" [ref=e7498]
+                                      - generic [ref=e7502]: Parle-G Toll
+                                    - generic [ref=e7503]: 
+                                  - generic [ref=e7505] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7506]: 5:30 AM
+                              - generic [ref=e7507]:
+                                - generic [ref=e7509]:
+                                  - generic [ref=e7510]:
+                                    - generic [ref=e7511] [cursor=pointer]:
+                                      - radio "Jalahalli Metro Station" [ref=e7513]
+                                      - generic [ref=e7517]: Jalahalli Metro Station
+                                    - generic [ref=e7518]: 
+                                  - generic [ref=e7520] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7521]: 5:45 AM
+                              - generic [ref=e7522]:
+                                - generic [ref=e7524]:
+                                  - generic [ref=e7525]:
+                                    - generic [ref=e7526] [cursor=pointer]:
+                                      - radio "Goraguntepalya Metro Station" [ref=e7528]
+                                      - generic [ref=e7532]: Goraguntepalya Metro Station
+                                    - generic [ref=e7533]: 
+                                  - generic [ref=e7535] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7536]: 6:00 AM
+                              - generic [ref=e7537]:
+                                - generic [ref=e7539]:
+                                  - generic [ref=e7540]:
+                                    - generic [ref=e7541] [cursor=pointer]:
+                                      - radio "Yeshwanthpur Metro Station" [ref=e7543]
+                                      - generic [ref=e7547]: Yeshwanthpur Metro Station
+                                    - generic [ref=e7548]: 
+                                  - generic [ref=e7550] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7551]: 6:05 AM
+                              - generic [ref=e7552]:
+                                - generic [ref=e7554]:
+                                  - generic [ref=e7555]:
+                                    - generic [ref=e7556] [cursor=pointer]:
+                                      - radio "Mahalakshmi Layout Metro Station" [ref=e7558]
+                                      - generic [ref=e7562]: Mahalakshmi Layout Metro Station
+                                    - generic [ref=e7563]: 
+                                  - generic [ref=e7565] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7566]: 6:10 AM
+                              - generic [ref=e7567]:
+                                - generic [ref=e7569]:
+                                  - generic [ref=e7570]:
+                                    - generic [ref=e7571] [cursor=pointer]:
+                                      - radio "Rajajinagar Metro Station" [ref=e7573]
+                                      - generic [ref=e7577]: Rajajinagar Metro Station
+                                    - generic [ref=e7578]: 
+                                  - generic [ref=e7580] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7581]: 6:15 AM
+                              - generic [ref=e7582]:
+                                - generic [ref=e7584]:
+                                  - generic [ref=e7585]:
+                                    - generic [ref=e7586] [cursor=pointer]:
+                                      - radio "Anand Rao Circle Vrl Bus Terminal" [ref=e7588]
+                                      - generic [ref=e7592]: Anand Rao Circle Vrl Bus Terminal
+                                    - generic [ref=e7593]: 
+                                  - generic [ref=e7595] [cursor=pointer]: Locate on Google Map
+                                - generic [ref=e7596]: 6:30 AM
+                          - generic [ref=e7597]:
+                            - button "Back" [ref=e7598] [cursor=pointer]
+                            - button "CONTINUE" [ref=e7599] [cursor=pointer]
+        - contentinfo:
+          - generic [ref=e764]:
+            - generic:
+              - generic [ref=e768]:
+                - heading "Download our App" [level=3] [ref=e769]
+                - generic [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                  - link [ref=e772] [cursor=pointer]:
+                    - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - generic:
+                    - generic [ref=e776]:
+                      - link [ref=e7363] [cursor=pointer]:
+                        - /url: jacascript:void(0)
+                      - generic [ref=e777]:
+                        - paragraph [ref=e778]: Connect with us on social
+                        - link "" [ref=e779] [cursor=pointer]:
+                          - /url: https://www.facebook.com/VrlltdOfficial/
+                        - link "" [ref=e781] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e783] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e785] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e790]:
+                          - heading "Quick Links" [level=4] [ref=e791]
+                          - list:
+                            - listitem:
+                              - link "About Us" [ref=e792] [cursor=pointer]:
+                                - /url: /aboutus
+                            - listitem:
+                              - link "Contact Us" [ref=e793] [cursor=pointer]:
+                                - /url: /contactus
+                            - listitem:
+                              - link "Mobile Version" [ref=e794] [cursor=pointer]:
+                                - /url: "#"
+                            - listitem:
+                              - link "Terms & Conditions" [ref=e795] [cursor=pointer]:
+                                - /url: /termsandcondition
+                            - listitem:
+                              - link "Privacy Policy" [ref=e796] [cursor=pointer]:
+                                - /url: /privacypolicy
+                            - listitem:
+                              - link "FAQ" [ref=e797] [cursor=pointer]:
+                                - /url: /faq
+                            - listitem:
+                              - link "Investor Desk" [ref=e798] [cursor=pointer]:
+                                - /url: /investordesk
+                            - listitem:
+                              - link "T&C apply" [ref=e799] [cursor=pointer]:
+                                - /url: /termsandconditions
+                            - listitem:
+                              - link "Quick Links" [ref=e800] [cursor=pointer]:
+                                - /url: /quicklinks
+                            - listitem:
+                              - link "Blogs" [ref=e801] [cursor=pointer]:
+                                - /url: /blog
+                            - listitem:
+                              - link "Career" [ref=e802] [cursor=pointer]:
+                                - /url: /career
+                            - listitem:
+                              - link "Partnership" [ref=e803] [cursor=pointer]:
+                                - /url: /partnership
+                        - generic [ref=e805]:
+                          - heading "Services" [level=4] [ref=e806]
+                          - list:
+                            - listitem:
+                              - link "Track Bus" [ref=e807] [cursor=pointer]:
+                                - /url: http://maps.itspl.net/VRL/BusTracker.aspx
+                            - listitem:
+                              - link "Buses on Contract" [ref=e808] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Agent Registration" [ref=e809] [cursor=pointer]:
+                                - /url: /agentregistration
+                            - listitem:
+                              - link "Refund Status" [ref=e810] [cursor=pointer]:
+                                - /url: /refundstatus
+                            - listitem:
+                              - link "My Booking" [ref=e811] [cursor=pointer]:
+                                - /url: /mybooking
+                            - listitem:
+                              - link "Modify Booking" [ref=e812] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Cancellation" [ref=e813] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Complaints" [ref=e814] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "GST Details" [ref=e815] [cursor=pointer]:
+                                - /url: /gstdetails
+                            - listitem:
+                              - link "Bus Charter" [ref=e816] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Feedback" [ref=e817] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "Track Parcel" [ref=e818] [cursor=pointer]:
+                                - /url: https://icargo.itspl.net/TrackParcel_v2.aspx?q=VTBUS
+                        - generic [ref=e819]:
+                          - generic [ref=e820]:
+                            - heading "Login" [level=4] [ref=e821]
+                            - list:
+                              - listitem:
+                                - generic [ref=e822] [cursor=pointer]: Customer login
+                              - listitem:
+                                - link "Agent Login" [ref=e823] [cursor=pointer]:
+                                  - /url: http://agent.vrlbus.in
+                              - listitem:
+                                - link "Branch Login" [ref=e824] [cursor=pointer]:
+                                  - /url: http://office.vrlbus.in
+                          - generic [ref=e825]:
+                            - heading "Contact" [level=4] [ref=e826]
+                            - list:
+                              - listitem:
+                                - link "Contact Us" [ref=e827] [cursor=pointer]:
+                                  - /url: /contactus
+                              - listitem:
+                                - link "Support" [ref=e828] [cursor=pointer]:
+                                  - /url: /
+                              - listitem:
+                                - link "Help" [ref=e829] [cursor=pointer]:
+                                  - /url: /
+                      - generic [ref=e830]:
+                        - generic [ref=e831]:
+                          - heading "Corporate Office" [level=4] [ref=e832]
+                          - list [ref=e833]:
+                            - listitem [ref=e834]:
+                              - paragraph [ref=e835]:
+                                - text: VIJAYANAND TRAVELS PVT.LTD.
+                                - generic [ref=e836]: CTS NO.122/78A
+                                - text: First Floor New Cotton Market, Hubballi - 580029 (Karnataka)
+                              - paragraph [ref=e837]: "CIN NO: U60232KA2022PTC165724"
+                              - paragraph [ref=e838]:
+                                - text: "24X7 Help Line No:"
+                                - link "08645371629/30 / 08362307300" [ref=e839] [cursor=pointer]:
+                                  - /url: "tel: 08645371629/30 / 08362307300"
+                        - generic [ref=e840]:
+                          - heading "Download our App" [level=4] [ref=e841]
+                          - generic [ref=e842]:
+                            - link [ref=e843] [cursor=pointer]:
+                              - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                            - link [ref=e844] [cursor=pointer]:
+                              - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+                - paragraph [ref=e848]:
+                  - text: Copyrights
+                  - link "Vijayanand Travels." [ref=e850] [cursor=pointer]:
+                    - /url: ""
+                  - text: All rights reserved.

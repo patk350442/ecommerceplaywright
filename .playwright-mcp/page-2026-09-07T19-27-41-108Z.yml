@@ -1,0 +1,253 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e4]:
+          - link [ref=e7905] [cursor=pointer]:
+            - /url: /
+            - img "Vijayanand Travels Travels" [ref=e7906]
+          - generic [ref=e8]:
+            - generic [ref=e11]:
+              - navigation:
+                - list [ref=e13]:
+                  - listitem [ref=e14]:
+                    - link "Home" [ref=e7907] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=e16]:
+                    - link "About" [ref=e7908] [cursor=pointer]:
+                      - /url: /aboutus
+                  - listitem [ref=e18]:
+                    - link "Contact" [ref=e7909] [cursor=pointer]:
+                      - /url: /contactus
+                  - listitem [ref=e20]:
+                    - link "Popular Destinations" [ref=e7910] [cursor=pointer]:
+                      - /url: /toproute
+                  - listitem [ref=e22]:
+                    - link "Modify" [ref=e7911] [cursor=pointer]:
+                      - /url: /modifyticket
+                  - listitem [ref=e24]:
+                    - link "New Route Suggestion" [ref=e7912] [cursor=pointer]:
+                      - /url: /routesuggestion
+            - generic [ref=e26]: Sign in / Sign up
+        - generic [ref=e7786]:
+          - generic [ref=e7788]:
+            - generic [ref=e7789]:
+              - checkbox "View Fare Details" [checked] [ref=e7913]
+              - generic [ref=e7791] [cursor=pointer]: View Fare Details
+            - generic [ref=e7792]:
+              - generic [ref=e7793]:
+                - heading "Fare" [level=2] [ref=e7914]
+                - heading " 2000.00" [level=2] [ref=e7915]:
+                  - generic [ref=e7796]: 
+                  - text: "2000.00"
+              - generic [ref=e7797]:
+                - generic [ref=e7798]:
+                  - generic [ref=e7799]: You’re Saving
+                  - generic [ref=e7800]: ₹300.00
+                - generic [ref=e7801]:
+                  - generic [ref=e7802]: New Base Fare
+                  - generic [ref=e7803]: ₹1700.00
+                - generic [ref=e7804]:
+                  - generic [ref=e7805]: Total Amount
+                  - generic [ref=e7806]: ₹1700.00
+              - generic [ref=e7807]:
+                - heading "Net Payable Amount" [level=2] [ref=e7916]
+                - heading "Total INR 1700.00" [level=2] [ref=e7917]
+              - generic [ref=e7810]:
+                - paragraph [ref=e7811]: By clicking on proceed, I agree that I have read and understood the TnCs and the Privacy Policy
+                - button "Pay" [ref=e7918] [cursor=pointer]
+          - generic [ref=e7814]:
+            - radio "Banahatti to Bengaluru" [checked] [ref=e7919]
+            - generic [ref=e7816] [cursor=pointer]: Banahatti to Bengaluru
+            - generic [ref=e7818]:
+              - generic [ref=e7819]:
+                - generic [ref=e7820]: Bus Type
+                - generic [ref=e7821]: Non A/C Sleeper Super Bus
+              - generic [ref=e7822]:
+                - generic [ref=e7823]:
+                  - generic [ref=e7824]:
+                    - generic [ref=e7825]: Boarding
+                    - paragraph [ref=e7826]: Near Bustand Banahatti
+                  - generic [ref=e7827]:
+                    - generic [ref=e7828]: Dropping
+                    - paragraph [ref=e7829]: Nelamangala By Pass
+                - generic [ref=e7830]:
+                  - generic [ref=e7831]:
+                    - generic [ref=e7832]: Saturday, 03 Oct
+                    - paragraph [ref=e7833]: 5:30 PM
+                  - paragraph [ref=e7835]: 5:00 AM
+                - generic [ref=e7836]:
+                  - generic [ref=e7837]:
+                    - generic [ref=e7838]: Passenger
+                    - paragraph [ref=e7839]: Prateek Mandi (Male 33)
+                  - generic [ref=e7840]:
+                    - generic [ref=e7841]: Seat
+                    - paragraph [ref=e7842]: U1
+                - generic [ref=e7843]:
+                  - generic [ref=e7844]:
+                    - generic [ref=e7845]: Passenger
+                    - paragraph [ref=e7846]: Priya Belagali (Female 31)
+                  - generic [ref=e7847]:
+                    - generic [ref=e7848]: Seat
+                    - paragraph [ref=e7849]: U20
+              - generic [ref=e7850]:
+                - heading "Ticket Fare" [level=5] [ref=e7920]
+                - heading " 1700.00" [level=5] [ref=e7921]:
+                  - generic [ref=e7853]: 
+                  - text: "1700.00"
+        - contentinfo:
+          - generic [ref=e764]:
+            - generic:
+              - generic [ref=e768]:
+                - heading "Download our App" [level=3] [ref=e7922]
+                - generic [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                  - link [ref=e772] [cursor=pointer]:
+                    - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - generic:
+                    - generic [ref=e776]:
+                      - link [ref=e7363] [cursor=pointer]:
+                        - /url: jacascript:void(0)
+                      - generic [ref=e777]:
+                        - paragraph [ref=e778]: Connect with us on social
+                        - link "" [ref=e7923] [cursor=pointer]:
+                          - /url: https://www.facebook.com/VrlltdOfficial/
+                        - link "" [ref=e7924] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e7925] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e7926] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e790]:
+                          - heading "Quick Links" [level=4] [ref=e7927]
+                          - list:
+                            - listitem:
+                              - link "About Us" [ref=e7928] [cursor=pointer]:
+                                - /url: /aboutus
+                            - listitem:
+                              - link "Contact Us" [ref=e7929] [cursor=pointer]:
+                                - /url: /contactus
+                            - listitem:
+                              - link "Mobile Version" [ref=e7930] [cursor=pointer]:
+                                - /url: "#"
+                            - listitem:
+                              - link "Terms & Conditions" [ref=e7931] [cursor=pointer]:
+                                - /url: /termsandcondition
+                            - listitem:
+                              - link "Privacy Policy" [ref=e7932] [cursor=pointer]:
+                                - /url: /privacypolicy
+                            - listitem:
+                              - link "FAQ" [ref=e7933] [cursor=pointer]:
+                                - /url: /faq
+                            - listitem:
+                              - link "Investor Desk" [ref=e7934] [cursor=pointer]:
+                                - /url: /investordesk
+                            - listitem:
+                              - link "T&C apply" [ref=e7935] [cursor=pointer]:
+                                - /url: /termsandconditions
+                            - listitem:
+                              - link "Quick Links" [ref=e7936] [cursor=pointer]:
+                                - /url: /quicklinks
+                            - listitem:
+                              - link "Blogs" [ref=e7937] [cursor=pointer]:
+                                - /url: /blog
+                            - listitem:
+                              - link "Career" [ref=e7938] [cursor=pointer]:
+                                - /url: /career
+                            - listitem:
+                              - link "Partnership" [ref=e7939] [cursor=pointer]:
+                                - /url: /partnership
+                        - generic [ref=e805]:
+                          - heading "Services" [level=4] [ref=e7940]
+                          - list:
+                            - listitem:
+                              - link "Track Bus" [ref=e7941] [cursor=pointer]:
+                                - /url: http://maps.itspl.net/VRL/BusTracker.aspx
+                            - listitem:
+                              - link "Buses on Contract" [ref=e7942] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Agent Registration" [ref=e7943] [cursor=pointer]:
+                                - /url: /agentregistration
+                            - listitem:
+                              - link "Refund Status" [ref=e7944] [cursor=pointer]:
+                                - /url: /refundstatus
+                            - listitem:
+                              - link "My Booking" [ref=e7945] [cursor=pointer]:
+                                - /url: /mybooking
+                            - listitem:
+                              - link "Modify Booking" [ref=e7946] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Cancellation" [ref=e7947] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Complaints" [ref=e7948] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "GST Details" [ref=e7949] [cursor=pointer]:
+                                - /url: /gstdetails
+                            - listitem:
+                              - link "Bus Charter" [ref=e7950] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Feedback" [ref=e7951] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "Track Parcel" [ref=e7952] [cursor=pointer]:
+                                - /url: https://icargo.itspl.net/TrackParcel_v2.aspx?q=VTBUS
+                        - generic [ref=e819]:
+                          - generic [ref=e820]:
+                            - heading "Login" [level=4] [ref=e7953]
+                            - list:
+                              - listitem:
+                                - generic [ref=e822] [cursor=pointer]: Customer login
+                              - listitem:
+                                - link "Agent Login" [ref=e7954] [cursor=pointer]:
+                                  - /url: http://agent.vrlbus.in
+                              - listitem:
+                                - link "Branch Login" [ref=e7955] [cursor=pointer]:
+                                  - /url: http://office.vrlbus.in
+                          - generic [ref=e825]:
+                            - heading "Contact" [level=4] [ref=e7956]
+                            - list:
+                              - listitem:
+                                - link "Contact Us" [ref=e7957] [cursor=pointer]:
+                                  - /url: /contactus
+                              - listitem:
+                                - link "Support" [ref=e7958] [cursor=pointer]:
+                                  - /url: /
+                              - listitem:
+                                - link "Help" [ref=e7959] [cursor=pointer]:
+                                  - /url: /
+                      - generic [ref=e830]:
+                        - generic [ref=e831]:
+                          - heading "Corporate Office" [level=4] [ref=e7960]
+                          - list [ref=e833]:
+                            - listitem [ref=e834]:
+                              - paragraph [ref=e835]:
+                                - text: VIJAYANAND TRAVELS PVT.LTD.
+                                - generic [ref=e836]: CTS NO.122/78A
+                                - text: First Floor New Cotton Market, Hubballi - 580029 (Karnataka)
+                              - paragraph [ref=e837]: "CIN NO: U60232KA2022PTC165724"
+                              - paragraph [ref=e838]:
+                                - text: "24X7 Help Line No:"
+                                - link "08645371629/30 / 08362307300" [ref=e7961] [cursor=pointer]:
+                                  - /url: "tel: 08645371629/30 / 08362307300"
+                        - generic [ref=e840]:
+                          - heading "Download our App" [level=4] [ref=e7962]
+                          - generic [ref=e842]:
+                            - link [ref=e843] [cursor=pointer]:
+                              - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                            - link [ref=e844] [cursor=pointer]:
+                              - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+                - paragraph [ref=e848]:
+                  - text: Copyrights
+                  - link "Vijayanand Travels." [ref=e7963] [cursor=pointer]:
+                    - /url: ""
+                  - text: All rights reserved.

@@ -1,0 +1,308 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e4]:
+          - link [ref=e6] [cursor=pointer]:
+            - /url: /
+            - img "Vijayanand Travels Travels" [ref=e7]
+          - generic [ref=e8]:
+            - generic [ref=e11]:
+              - navigation:
+                - list [ref=e13]:
+                  - listitem [ref=e14]:
+                    - link "Home" [ref=e15] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=e16]:
+                    - link "About" [ref=e17] [cursor=pointer]:
+                      - /url: /aboutus
+                  - listitem [ref=e18]:
+                    - link "Contact" [ref=e19] [cursor=pointer]:
+                      - /url: /contactus
+                  - listitem [ref=e20]:
+                    - link "Popular Destinations" [ref=e21] [cursor=pointer]:
+                      - /url: /toproute
+                  - listitem [ref=e22]:
+                    - link "Modify" [ref=e23] [cursor=pointer]:
+                      - /url: /modifyticket
+                  - listitem [ref=e24]:
+                    - link "New Route Suggestion" [ref=e25] [cursor=pointer]:
+                      - /url: /routesuggestion
+            - generic [ref=e26]: Sign in / Sign up
+        - generic [ref=e7613]:
+          - generic [ref=e7614]:
+            - generic [ref=e7615]:
+              - generic [ref=e7616]: Contact Details
+              - generic [ref=e7617]: Your ticket will be sent to these details
+            - generic [ref=e7618]:
+              - generic [ref=e7619]:
+                - textbox "Email Id" [ref=e7621]: prateekmandi007#gmail.com
+                - textbox "Phone" [ref=e7623]: "9449168988"
+              - generic [ref=e7624]:
+                - checkbox "Send Booking details and updates on Whatsapp Number" [ref=e7625]
+                - generic [ref=e7626] [cursor=pointer]: Send Booking details and updates on Whatsapp Number
+          - generic [ref=e7627]: Banahatti - Bengaluru
+          - generic [ref=e7629]:
+            - generic [ref=e7630]: Passenger Details
+            - generic [ref=e7631]:
+              - generic [ref=e7633]:
+                - generic [ref=e7634]:
+                  - paragraph [ref=e7635]: Passenger 1
+                  - paragraph [ref=e7636]:
+                    - text: Seat
+                    - generic [ref=e7637]: U1
+                - generic [ref=e7638]:
+                  - textbox "First Name" [ref=e7640]: Prateek
+                  - textbox "Last Name" [ref=e7642]: Mandi
+                - generic [ref=e7643]:
+                  - generic [ref=e7644]:
+                    - paragraph [ref=e7645]: Gender
+                    - radiogroup [ref=e7646]:
+                      - generic [ref=e7647] [cursor=pointer]:
+                        - radio "Male" [checked] [active] [ref=e7649]
+                        - generic [ref=e7653]: Male
+                      - generic [ref=e7654] [cursor=pointer]:
+                        - radio "Female" [ref=e7656]
+                        - generic [ref=e7660]: Female
+                  - generic [ref=e7661]:
+                    - paragraph [ref=e7662]: Age
+                    - textbox "Age" [ref=e7663]
+              - generic [ref=e7665]:
+                - generic [ref=e7666]:
+                  - paragraph [ref=e7667]: Passenger 2
+                  - paragraph [ref=e7668]:
+                    - text: Seat
+                    - generic [ref=e7669]: U20
+                - generic [ref=e7670]:
+                  - textbox "First Name" [ref=e7672]
+                  - textbox "Last Name" [ref=e7674]
+                - generic [ref=e7675]:
+                  - generic [ref=e7676]:
+                    - paragraph [ref=e7677]: Gender
+                    - radiogroup [ref=e7678]:
+                      - generic [ref=e7679] [cursor=pointer]:
+                        - radio "Male" [ref=e7681]
+                        - generic [ref=e7685]: Male
+                      - generic [ref=e7686] [cursor=pointer]:
+                        - radio "Female" [ref=e7688]
+                        - generic [ref=e7692]: Female
+                  - generic [ref=e7693]:
+                    - paragraph [ref=e7694]: Age
+                    - textbox "Age" [ref=e7695]
+          - generic [ref=e7697]:
+            - checkbox "GST Details" [ref=e7698]
+            - generic [ref=e7699] [cursor=pointer]: GST Details
+          - generic [ref=e7700]:
+            - generic [ref=e7701]: Check Out Our Amenities
+            - generic [ref=e7703]:
+              - generic [ref=e7704]:
+                - generic [ref=e7705]: Banahatti Bengaluru
+                - generic [ref=e7708]:
+                  - generic [ref=e7709]:
+                    - img "AmenitiesIcon" [ref=e7710]
+                    - paragraph [ref=e7711]: Reading Light
+                  - generic [ref=e7712]:
+                    - img "AmenitiesIcon" [ref=e7713]
+                    - paragraph [ref=e7714]: Fire Extinguisher
+                  - generic [ref=e7715]:
+                    - img "AmenitiesIcon" [ref=e7716]
+                    - paragraph [ref=e7717]: Mobile Charging Point
+                  - generic [ref=e7718]:
+                    - img "AmenitiesIcon" [ref=e7719]
+                    - paragraph [ref=e7720]: M-ticket Supported
+                  - generic [ref=e7721]:
+                    - img "AmenitiesIcon" [ref=e7722]
+                    - paragraph [ref=e7723]: Emergency exit
+                  - generic [ref=e7724]:
+                    - img "AmenitiesIcon" [ref=e7725]
+                    - paragraph [ref=e7726]: Live Bus Tracking
+                  - generic [ref=e7727]:
+                    - img "AmenitiesIcon" [ref=e7728]
+                    - paragraph [ref=e7729]: Hammer
+                  - generic [ref=e7730]:
+                    - img "AmenitiesIcon" [ref=e7731]
+                    - paragraph [ref=e7732]: USB port for charger
+                  - generic [ref=e7733]:
+                    - img "AmenitiesIcon" [ref=e7734]
+                    - paragraph [ref=e7735]: Helpline Number
+                - generic [ref=e7736]:
+                  - generic [ref=e7737]: Stop Over Timings
+                  - generic [ref=e7739]:
+                    - generic [ref=e7740]:
+                      - generic [ref=e7741]:
+                        - generic [ref=e7742]: Near Bustand Banahatti
+                        - generic [ref=e7743]: Bus Stand Road Near M.M.Bhandrannavar Compound Banahatti
+                      - generic [ref=e7745]:
+                        - text: 5:30 PM, Saturday
+                        - generic [ref=e7746]: 03 October
+                    - generic [ref=e7747]:
+                      - generic [ref=e7748]:
+                        - generic [ref=e7749]: Nelamangala By Pass
+                        - generic [ref=e7750]: Nelamangala By Pass
+                      - generic [ref=e7752]:
+                        - text: 5:00 AM, Sunday
+                        - generic [ref=e7753]: 04 October
+              - button "View Bus Route" [ref=e7758] [cursor=pointer]
+          - generic [ref=e7759]:
+            - generic [ref=e7760]:
+              - generic [ref=e7761]: Total INR 1700.00
+              - paragraph [ref=e7762]:
+                - text: By clicking on proceed, I agree that I have read and understood
+                - generic [ref=e7763]: the TnCs and the Privacy Policy
+            - button "Proceed" [ref=e7765] [cursor=pointer]
+        - contentinfo:
+          - generic [ref=e764]:
+            - generic:
+              - generic [ref=e768]:
+                - heading "Download our App" [level=3] [ref=e769]
+                - generic [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                  - link [ref=e772] [cursor=pointer]:
+                    - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - generic:
+                    - generic [ref=e776]:
+                      - link [ref=e7363] [cursor=pointer]:
+                        - /url: jacascript:void(0)
+                      - generic [ref=e777]:
+                        - paragraph [ref=e778]: Connect with us on social
+                        - link "" [ref=e779] [cursor=pointer]:
+                          - /url: https://www.facebook.com/VrlltdOfficial/
+                        - link "" [ref=e781] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e783] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e785] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e790]:
+                          - heading "Quick Links" [level=4] [ref=e791]
+                          - list:
+                            - listitem:
+                              - link "About Us" [ref=e792] [cursor=pointer]:
+                                - /url: /aboutus
+                            - listitem:
+                              - link "Contact Us" [ref=e793] [cursor=pointer]:
+                                - /url: /contactus
+                            - listitem:
+                              - link "Mobile Version" [ref=e794] [cursor=pointer]:
+                                - /url: "#"
+                            - listitem:
+                              - link "Terms & Conditions" [ref=e795] [cursor=pointer]:
+                                - /url: /termsandcondition
+                            - listitem:
+                              - link "Privacy Policy" [ref=e796] [cursor=pointer]:
+                                - /url: /privacypolicy
+                            - listitem:
+                              - link "FAQ" [ref=e797] [cursor=pointer]:
+                                - /url: /faq
+                            - listitem:
+                              - link "Investor Desk" [ref=e798] [cursor=pointer]:
+                                - /url: /investordesk
+                            - listitem:
+                              - link "T&C apply" [ref=e799] [cursor=pointer]:
+                                - /url: /termsandconditions
+                            - listitem:
+                              - link "Quick Links" [ref=e800] [cursor=pointer]:
+                                - /url: /quicklinks
+                            - listitem:
+                              - link "Blogs" [ref=e801] [cursor=pointer]:
+                                - /url: /blog
+                            - listitem:
+                              - link "Career" [ref=e802] [cursor=pointer]:
+                                - /url: /career
+                            - listitem:
+                              - link "Partnership" [ref=e803] [cursor=pointer]:
+                                - /url: /partnership
+                        - generic [ref=e805]:
+                          - heading "Services" [level=4] [ref=e806]
+                          - list:
+                            - listitem:
+                              - link "Track Bus" [ref=e807] [cursor=pointer]:
+                                - /url: http://maps.itspl.net/VRL/BusTracker.aspx
+                            - listitem:
+                              - link "Buses on Contract" [ref=e808] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Agent Registration" [ref=e809] [cursor=pointer]:
+                                - /url: /agentregistration
+                            - listitem:
+                              - link "Refund Status" [ref=e810] [cursor=pointer]:
+                                - /url: /refundstatus
+                            - listitem:
+                              - link "My Booking" [ref=e811] [cursor=pointer]:
+                                - /url: /mybooking
+                            - listitem:
+                              - link "Modify Booking" [ref=e812] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Cancellation" [ref=e813] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Complaints" [ref=e814] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "GST Details" [ref=e815] [cursor=pointer]:
+                                - /url: /gstdetails
+                            - listitem:
+                              - link "Bus Charter" [ref=e816] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Feedback" [ref=e817] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "Track Parcel" [ref=e818] [cursor=pointer]:
+                                - /url: https://icargo.itspl.net/TrackParcel_v2.aspx?q=VTBUS
+                        - generic [ref=e819]:
+                          - generic [ref=e820]:
+                            - heading "Login" [level=4] [ref=e821]
+                            - list:
+                              - listitem:
+                                - generic [ref=e822] [cursor=pointer]: Customer login
+                              - listitem:
+                                - link "Agent Login" [ref=e823] [cursor=pointer]:
+                                  - /url: http://agent.vrlbus.in
+                              - listitem:
+                                - link "Branch Login" [ref=e824] [cursor=pointer]:
+                                  - /url: http://office.vrlbus.in
+                          - generic [ref=e825]:
+                            - heading "Contact" [level=4] [ref=e826]
+                            - list:
+                              - listitem:
+                                - link "Contact Us" [ref=e827] [cursor=pointer]:
+                                  - /url: /contactus
+                              - listitem:
+                                - link "Support" [ref=e828] [cursor=pointer]:
+                                  - /url: /
+                              - listitem:
+                                - link "Help" [ref=e829] [cursor=pointer]:
+                                  - /url: /
+                      - generic [ref=e830]:
+                        - generic [ref=e831]:
+                          - heading "Corporate Office" [level=4] [ref=e832]
+                          - list [ref=e833]:
+                            - listitem [ref=e834]:
+                              - paragraph [ref=e835]:
+                                - text: VIJAYANAND TRAVELS PVT.LTD.
+                                - generic [ref=e836]: CTS NO.122/78A
+                                - text: First Floor New Cotton Market, Hubballi - 580029 (Karnataka)
+                              - paragraph [ref=e837]: "CIN NO: U60232KA2022PTC165724"
+                              - paragraph [ref=e838]:
+                                - text: "24X7 Help Line No:"
+                                - link "08645371629/30 / 08362307300" [ref=e839] [cursor=pointer]:
+                                  - /url: "tel: 08645371629/30 / 08362307300"
+                        - generic [ref=e840]:
+                          - heading "Download our App" [level=4] [ref=e841]
+                          - generic [ref=e842]:
+                            - link [ref=e843] [cursor=pointer]:
+                              - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                            - link [ref=e844] [cursor=pointer]:
+                              - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+                - paragraph [ref=e848]:
+                  - text: Copyrights
+                  - link "Vijayanand Travels." [ref=e850] [cursor=pointer]:
+                    - /url: ""
+                  - text: All rights reserved.

@@ -1,0 +1,565 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e4]:
+          - link [ref=e6] [cursor=pointer]:
+            - /url: /
+            - img "Vijayanand Travels Travels" [ref=e7]
+          - generic [ref=e8]:
+            - generic [ref=e11]:
+              - navigation:
+                - list [ref=e13]:
+                  - listitem [ref=e14]:
+                    - link "Home" [ref=e15] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=e16]:
+                    - link "About" [ref=e17] [cursor=pointer]:
+                      - /url: /aboutus
+                  - listitem [ref=e18]:
+                    - link "Contact" [ref=e19] [cursor=pointer]:
+                      - /url: /contactus
+                  - listitem [ref=e20]:
+                    - link "Popular Destinations" [ref=e21] [cursor=pointer]:
+                      - /url: /toproute
+                  - listitem [ref=e22]:
+                    - link "Modify" [ref=e23] [cursor=pointer]:
+                      - /url: /modifyticket
+                  - listitem [ref=e24]:
+                    - link "New Route Suggestion" [ref=e25] [cursor=pointer]:
+                      - /url: /routesuggestion
+            - generic [ref=e26]: Sign in / Sign up
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - img "Lottie animation" [ref=e45]
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - generic [ref=e76]:
+                      - heading "Super Rides Begin with Super Offers from VRL Travels!" [level=1] [ref=e77]
+                      - paragraph [ref=e79]:
+                        - text: 15% off on
+                        - generic [ref=e80]: all bookings.
+          - generic [ref=e83]:
+            - list [ref=e84]:
+              - radiogroup [ref=e86]:
+                - generic [ref=e87] [cursor=pointer]:
+                  - radio "One way" [checked] [ref=e89]
+                  - generic [ref=e95]: One way
+                - generic [ref=e96] [cursor=pointer]:
+                  - radio "Round Trip" [ref=e98]
+                  - generic [ref=e102]: Round Trip
+            - generic [ref=e103]:
+              - generic [ref=e104]:
+                - combobox "Source" [ref=e109]
+                - generic [ref=e111] [cursor=pointer]
+                - combobox "Destination" [ref=e116]
+              - generic [ref=e118]:
+                - generic [ref=e120]:
+                  - textbox "Departing" [ref=e121]: 08-09-2026
+                  - text: 
+                - generic [ref=e122]:
+                  - button "Today Sep 08" [ref=e123] [cursor=pointer]
+                  - button "Tomorrow Sep 09" [ref=e124] [cursor=pointer]
+              - button "Search" [ref=e126] [cursor=pointer]
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - heading "Super VRL Offers and Travel Deals" [level=3] [ref=e130]
+            - paragraph [ref=e131]: Make your journey better with our latest offers, deals, and rewards.
+          - generic [ref=e136]:
+            - generic:
+              - button "" [ref=e166] [cursor=pointer]
+              - button "" [ref=e167] [cursor=pointer]
+        - generic [ref=e169]:
+          - generic:
+            - generic [ref=e170]:
+              - heading "Planning an Event?" [level=3] [ref=e171]
+              - paragraph [ref=e172]: Book Now and Get Best Deals on Best Buses.
+            - list [ref=e174]:
+              - listitem [ref=e175]:
+                - link "Bus Hire" [ref=e176] [cursor=pointer]:
+                  - /url: /buscharter
+        - generic [ref=e178]:
+          - generic [ref=e179]:
+            - heading "Top Routes Covered by Vijayanand Travels" [level=3] [ref=e180]
+            - paragraph [ref=e181]: Super discounts and rewards after every bus ride.
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - generic [ref=e189]: Hubballi
+              - generic [ref=e193]: Goa
+              - generic [ref=e197]: Ahmedabad
+              - generic [ref=e201]: Indore
+              - generic [ref=e205]: Mysore
+              - generic [ref=e209]: Nagpur
+              - generic [ref=e213]: Shirdi
+              - generic [ref=e217]: Mangalore
+              - generic [ref=e221]: Pune
+              - generic [ref=e225]: Bangalore
+              - generic [ref=e229]: Mumbai
+              - generic [ref=e233]: Belagavi
+              - generic [ref=e237]: Hyderabad
+              - generic [ref=e241]: Hubballi
+              - generic [ref=e245]: Goa
+              - generic [ref=e249]: Ahmedabad
+              - generic [ref=e253]: Indore
+              - generic [ref=e257]: Mysore
+              - generic [ref=e261]: Nagpur
+              - generic [ref=e265]: Shirdi
+              - generic [ref=e269]: Mangalore
+              - generic [ref=e273]: Pune
+              - generic [ref=e277]: Bangalore
+              - generic [ref=e281]: Mumbai
+              - generic [ref=e285]: Belagavi
+              - generic [ref=e289]: Hyderabad
+              - generic [ref=e293]: Hubballi
+            - generic:
+              - button "" [ref=e297] [cursor=pointer]
+              - button "" [ref=e298] [cursor=pointer]
+        - generic [ref=e301]:
+          - list [ref=e302]:
+            - listitem [ref=e303]: Ahmedabad to Bengaluru
+            - listitem [ref=e304] [cursor=pointer]: Mumbai to Goa
+            - listitem [ref=e305] [cursor=pointer]: Mumbai to Bengaluru
+            - listitem [ref=e306] [cursor=pointer]: Goa to Bengaluru
+          - generic [ref=e309]:
+            - paragraph [ref=e310]:
+              - text: Via - Surat, Vapi, Mumbai, Pune, Belagavi, Dharwad,
+              - generic [ref=e311]: Hubballi, Rannebenur, Chitradurga, Tumkur
+            - generic [ref=e312] [cursor=pointer]: Book Now
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - generic:
+              - generic [ref=e315]:
+                - heading "Why Choose Vijayanand Travels?" [level=3] [ref=e316]
+                - paragraph [ref=e317]: Journey Better with Vijayanand Travels!
+              - generic [ref=e321]:
+                - generic [ref=e323]:
+                  - generic [ref=e324]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e325]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e326]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e327]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e328]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e329]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e330]:
+                    - generic:
+                      - paragraph
+                  - generic [ref=e331]:
+                    - generic:
+                      - paragraph
+                - generic:
+                  - button "" [ref=e332] [cursor=pointer]
+                  - button "" [ref=e333] [cursor=pointer]
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - heading "Explore India with Vijayanand Travels" [level=3] [ref=e337]
+              - paragraph [ref=e338]: See how we go the extra mile to make sure you have the best experience.
+            - generic [ref=e339]:
+              - generic [ref=e340] [cursor=pointer]:
+                - emphasis [ref=e341]
+                - paragraph [ref=e342]: Customer Gratification
+                - generic [ref=e343]: We value our customers smiles over anything else, and offer services that go beyond industry standards.
+              - generic [ref=e344] [cursor=pointer]:
+                - emphasis [ref=e345]
+                - paragraph [ref=e346]: Privacy first
+                - generic [ref=e347]: Your privacy is of utmost importance to us! Rest assured, your personal details are safe with us, no matter what.
+              - generic [ref=e348] [cursor=pointer]:
+                - emphasis [ref=e349]
+                - paragraph [ref=e350]: Safety & Punctuality
+                - generic [ref=e351]: You're in safe hands! Ride in style and always be on time with Vijayanand Travels.
+          - generic [ref=e353]:
+            - generic [ref=e354]:
+              - heading "Making your bus journey better" [level=3] [ref=e355]
+              - paragraph [ref=e356]: Check out all our bus amenities
+            - generic [ref=e357]:
+              - generic [ref=e358] [cursor=pointer]:
+                - emphasis [ref=e359]
+                - generic [ref=e360]: Charging Points
+              - generic [ref=e361] [cursor=pointer]:
+                - emphasis [ref=e362]
+                - generic [ref=e363]: Luggage Safety
+              - generic [ref=e364] [cursor=pointer]:
+                - emphasis [ref=e365]
+                - generic [ref=e366]: Live Bus Tracking
+              - generic [ref=e367] [cursor=pointer]:
+                - emphasis [ref=e368]
+                - generic [ref=e369]: Back Up Drivers
+              - generic [ref=e370] [cursor=pointer]:
+                - emphasis [ref=e371]
+                - generic [ref=e372]: Blankets In AC Buses
+              - generic [ref=e373] [cursor=pointer]:
+                - emphasis [ref=e374]
+                - generic [ref=e375]: Fire Extinguishers
+        - generic [ref=e377]:
+          - heading "FAQ’s About VRL Bus Booking" [level=2] [ref=e379]
+          - generic [ref=e380]:
+            - generic [ref=e382]:
+              - generic [ref=e383] [cursor=pointer]: General
+              - generic [ref=e384] [cursor=pointer]: Ticket Related
+              - generic [ref=e385] [cursor=pointer]: Payment
+              - generic [ref=e386] [cursor=pointer]: Cancellation & Refund
+            - generic [ref=e387]:
+              - generic:
+                - generic:
+                  - generic [ref=e389]:
+                    - generic [ref=e390] [cursor=pointer]: 1. Can I make a VRL bus online booking without registering?
+                    - paragraph [ref=e392]: Yes, VRL online ticket booking allows guest checkout. However, registering helps track bookings and receive notifications.
+                  - generic [ref=e394]:
+                    - generic [ref=e395] [cursor=pointer]: 2. Is the VRL bus booking app available for Android and iOS?
+                    - paragraph [ref=e397]: Yes, the VRL bus booking app is available for both Android and iOS, making it easier to manage trips and access e-tickets on the go.
+                  - generic [ref=e399]:
+                    - generic [ref=e400] [cursor=pointer]: 3. What cities are covered by VRL Travels?
+                    - paragraph [ref=e402]: VRL Travels operates in major cities including Bangalore, Mumbai, Pune, Hyderabad, and many others across South and West India.
+                  - generic [ref=e404]:
+                    - generic [ref=e405] [cursor=pointer]: 4. How do I contact VRL Travels for help?
+                    - paragraph [ref=e407]:
+                      - text: You can reach VRL customer care by calling @08645371629/30 / 08362307300
+                      - generic [ref=e408]: VRL Travels contact number
+                      - text: listed on the website. The VRL customer care number is also available through the app.
+                  - generic [ref=e410]:
+                    - generic [ref=e411] [cursor=pointer]: 5. Are VRL buses safe and reliable?
+                    - paragraph [ref=e413]: Absolutely. VRL buses are known for their punctuality, safety, and comfort, making VRL Vijayanand Travels a top choice among commuters.
+                  - generic [ref=e415]:
+                    - generic [ref=e416] [cursor=pointer]: 6. Is there any discount on VRL bus ticket booking?
+                    - paragraph [ref=e418]: Discounts are often available on VRL through online booking or via special offers on the VRL bus booking app.
+                  - generic [ref=e420]:
+                    - generic [ref=e421] [cursor=pointer]: 7. Why should I choose VRL bus booking online over offline?
+                    - paragraph [ref=e423]: VRL online ticket booking is fast, convenient, and provides instant confirmation, with access to seat selection and digital receipts.
+        - generic [ref=e426]:
+          - heading "Best Buses, Best Deals. Only on the Vijayanand Travels App." [level=3] [ref=e428]:
+            - text: Best Buses, Best Deals.
+            - generic [ref=e429]: Only on the Vijayanand
+            - text: Travels App.
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - generic [ref=e432]: 
+              - text: Track Bus in Real Time
+            - generic [ref=e433]:
+              - generic [ref=e434]: 
+              - text: Flexi Tickets
+            - generic [ref=e435]:
+              - generic [ref=e436]: 
+              - text: Live Updates
+            - generic [ref=e437]:
+              - generic [ref=e438]: 
+              - text: 15% Flat Discount
+          - generic [ref=e439]:
+            - generic [ref=e440]:
+              - generic [ref=e441]:
+                - heading "Enter Your Mobile Number And Get Mobile App Link" [level=3] [ref=e442]:
+                  - text: Enter Your Mobile Number And
+                  - generic [ref=e443]: Get Mobile App Link
+                - generic [ref=e444]:
+                  - textbox "Mobile" [ref=e445]
+                  - button "GET LINK" [ref=e446] [cursor=pointer]
+              - generic [ref=e447]:
+                - link [ref=e448] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                - link [ref=e449] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+            - paragraph [ref=e451]:
+              - text: scan QR code to
+              - generic [ref=e452]: download
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - heading "Explore India" [level=3] [ref=e457]
+            - paragraph [ref=e458]: There is a lot on our destinations palette that can be explored.
+          - generic [ref=e462]:
+            - generic [ref=e464]:
+              - generic [ref=e470]:
+                - paragraph [ref=e471]: 10 Family-Friendly Places to Visit in India in Summer Holidays
+                - link "Read More" [ref=e472] [cursor=pointer]:
+                  - /url: /blog/10-family-friendly-places-to-visit-in-india-in-summer-holidays
+              - generic [ref=e478]:
+                - paragraph [ref=e479]: 10 Rainy Season Places to Visit in India for Nature Lovers
+                - link "Read More" [ref=e480] [cursor=pointer]:
+                  - /url: /blog/10-rainy-season-places-to-visit-in-india-for-nature-lovers
+              - generic [ref=e486]:
+                - paragraph [ref=e487]: "Train vs Bus: Which is Better for Inter-City Travel?"
+                - link "Read More" [ref=e488] [cursor=pointer]:
+                  - /url: /blog/train-vs-bus-which-is-better-for-inter-city-travel
+              - generic [ref=e494]:
+                - paragraph [ref=e495]: Top 10 Budget Travel Destinations in South India
+                - link "Read More" [ref=e496] [cursor=pointer]:
+                  - /url: /blog/top-10-budget-travel-destinations-in-south-india
+              - generic [ref=e502]:
+                - paragraph [ref=e503]: Best Adventurous Places To Visit In India For Adventure Lovers
+                - link "Read More" [ref=e504] [cursor=pointer]:
+                  - /url: /blog/adventurous-places-to-visit-in-india
+              - generic [ref=e510]:
+                - paragraph [ref=e511]: Top 7 Monsoon Destinations in India for Rain Lovers
+                - link "Read More" [ref=e512] [cursor=pointer]:
+                  - /url: /blog/top-7-monsoon-destinations-in-india-for-rain-lovers
+              - generic [ref=e518]:
+                - paragraph [ref=e519]: "12 Cool Places to Visit in May in India: Summer Travel Guide"
+                - link "Read More" [ref=e520] [cursor=pointer]:
+                  - /url: /blog/10-must-visit-places-in-india-you-cant-miss
+              - generic [ref=e526]:
+                - paragraph [ref=e527]: 10 Best Places to Visit in India in 2025
+                - link "Read More" [ref=e528] [cursor=pointer]:
+                  - /url: /blog/10-best-places-to-visit-in-india
+              - generic [ref=e534]:
+                - paragraph [ref=e535]: 10 Hidden Gem Places to Visit in Kerala Tourism in 2025
+                - link "Read More" [ref=e536] [cursor=pointer]:
+                  - /url: /blog/hidden-gem-places-to-visit-in-kerala-tourism
+              - generic [ref=e542]:
+                - paragraph [ref=e543]: "Types of Buses in India: Which One Should You Choose?"
+                - link "Read More" [ref=e544] [cursor=pointer]:
+                  - /url: /blog/guide-to-types-of-buses
+              - generic [ref=e550]:
+                - paragraph [ref=e551]: Explore the 6 Most Beautiful Village in Kerala in 2025
+                - link "Read More" [ref=e552] [cursor=pointer]:
+                  - /url: /blog/most-beautiful-villages-in-kerala
+              - generic [ref=e558]:
+                - paragraph [ref=e559]: 15 Best Places to Visit in India in August Month for Monsoon Magic
+                - link "Read More" [ref=e560] [cursor=pointer]:
+                  - /url: /blog/best-places-to-visit-in-india-in-august-month
+              - generic [ref=e566]:
+                - paragraph [ref=e567]: Top 10 Tourist Places Near Chennai Within 100 Kms for Day Trips
+                - link "Read More" [ref=e568] [cursor=pointer]:
+                  - /url: /blog/tourist-places-near-chennai-within-100-kms
+              - generic [ref=e574]:
+                - paragraph [ref=e575]: Top 10 Best Places to Visit in July in South India for Nature and Culture
+                - link "Read More" [ref=e576] [cursor=pointer]:
+                  - /url: /blog/top-10-best-places-to-visit-in-july-in-south-india
+              - generic [ref=e582]:
+                - paragraph [ref=e583]: Top 10 Scenic Places to Visit Near Mumbai in Monsoon for a Weekend Getaway
+                - link "Read More" [ref=e584] [cursor=pointer]:
+                  - /url: /blog/top-scenic-places-to-visit-near-mumbai-in-monsoon
+              - generic [ref=e590]:
+                - paragraph [ref=e591]: 10 Family-Friendly Places to Visit in India in Summer Holidays
+                - link "Read More" [ref=e592] [cursor=pointer]:
+                  - /url: /blog/10-family-friendly-places-to-visit-in-india-in-summer-holidays
+              - generic [ref=e598]:
+                - paragraph [ref=e599]: 10 Rainy Season Places to Visit in India for Nature Lovers
+                - link "Read More" [ref=e600] [cursor=pointer]:
+                  - /url: /blog/10-rainy-season-places-to-visit-in-india-for-nature-lovers
+              - generic [ref=e606]:
+                - paragraph [ref=e607]: "Train vs Bus: Which is Better for Inter-City Travel?"
+                - link "Read More" [ref=e608] [cursor=pointer]:
+                  - /url: /blog/train-vs-bus-which-is-better-for-inter-city-travel
+              - generic [ref=e614]:
+                - paragraph [ref=e615]: Top 10 Budget Travel Destinations in South India
+                - link "Read More" [ref=e616] [cursor=pointer]:
+                  - /url: /blog/top-10-budget-travel-destinations-in-south-india
+              - generic [ref=e622]:
+                - paragraph [ref=e623]: Best Adventurous Places To Visit In India For Adventure Lovers
+                - link "Read More" [ref=e624] [cursor=pointer]:
+                  - /url: /blog/adventurous-places-to-visit-in-india
+              - generic [ref=e630]:
+                - paragraph [ref=e631]: Top 7 Monsoon Destinations in India for Rain Lovers
+                - link "Read More" [ref=e632] [cursor=pointer]:
+                  - /url: /blog/top-7-monsoon-destinations-in-india-for-rain-lovers
+              - generic [ref=e638]:
+                - paragraph [ref=e639]: "12 Cool Places to Visit in May in India: Summer Travel Guide"
+                - link "Read More" [ref=e640] [cursor=pointer]:
+                  - /url: /blog/10-must-visit-places-in-india-you-cant-miss
+              - generic [ref=e646]:
+                - paragraph [ref=e647]: 10 Best Places to Visit in India in 2025
+                - link "Read More" [ref=e648] [cursor=pointer]:
+                  - /url: /blog/10-best-places-to-visit-in-india
+              - generic [ref=e654]:
+                - paragraph [ref=e655]: 10 Hidden Gem Places to Visit in Kerala Tourism in 2025
+                - link "Read More" [ref=e656] [cursor=pointer]:
+                  - /url: /blog/hidden-gem-places-to-visit-in-kerala-tourism
+              - generic [ref=e662]:
+                - paragraph [ref=e663]: "Types of Buses in India: Which One Should You Choose?"
+                - link "Read More" [ref=e664] [cursor=pointer]:
+                  - /url: /blog/guide-to-types-of-buses
+              - generic [ref=e670]:
+                - paragraph [ref=e671]: Explore the 6 Most Beautiful Village in Kerala in 2025
+                - link "Read More" [ref=e672] [cursor=pointer]:
+                  - /url: /blog/most-beautiful-villages-in-kerala
+              - generic [ref=e678]:
+                - paragraph [ref=e679]: 15 Best Places to Visit in India in August Month for Monsoon Magic
+                - link "Read More" [ref=e680] [cursor=pointer]:
+                  - /url: /blog/best-places-to-visit-in-india-in-august-month
+              - generic [ref=e686]:
+                - paragraph [ref=e687]: Top 10 Tourist Places Near Chennai Within 100 Kms for Day Trips
+                - link "Read More" [ref=e688] [cursor=pointer]:
+                  - /url: /blog/tourist-places-near-chennai-within-100-kms
+              - generic [ref=e694]:
+                - paragraph [ref=e695]: Top 10 Best Places to Visit in July in South India for Nature and Culture
+                - link "Read More" [ref=e696] [cursor=pointer]:
+                  - /url: /blog/top-10-best-places-to-visit-in-july-in-south-india
+              - generic [ref=e702]:
+                - paragraph [ref=e703]: Top 10 Scenic Places to Visit Near Mumbai in Monsoon for a Weekend Getaway
+                - link "Read More" [ref=e704] [cursor=pointer]:
+                  - /url: /blog/top-scenic-places-to-visit-near-mumbai-in-monsoon
+              - generic [ref=e710]:
+                - paragraph [ref=e711]: 10 Family-Friendly Places to Visit in India in Summer Holidays
+                - link "Read More" [ref=e712] [cursor=pointer]:
+                  - /url: /blog/10-family-friendly-places-to-visit-in-india-in-summer-holidays
+            - generic:
+              - button "" [ref=e713] [cursor=pointer]
+              - button "" [ref=e714] [cursor=pointer]
+        - paragraph [ref=e741]: "#JourneyBetter"
+        - contentinfo:
+          - generic [ref=e764]:
+            - generic:
+              - generic [ref=e768]:
+                - heading "Download our App" [level=3] [ref=e769]
+                - generic [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                  - link [ref=e772] [cursor=pointer]:
+                    - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - generic:
+                    - generic [ref=e776]:
+                      - generic:
+                        - link:
+                          - /url: jacascript:void(0)
+                      - generic [ref=e777]:
+                        - paragraph [ref=e778]: Connect with us on social
+                        - link "" [ref=e779] [cursor=pointer]:
+                          - /url: https://www.facebook.com/VrlltdOfficial/
+                        - link "" [ref=e781] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e783] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e785] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e790]:
+                          - heading "Quick Links" [level=4] [ref=e791]
+                          - list:
+                            - listitem:
+                              - link "About Us" [ref=e792] [cursor=pointer]:
+                                - /url: /aboutus
+                            - listitem:
+                              - link "Contact Us" [ref=e793] [cursor=pointer]:
+                                - /url: /contactus
+                            - listitem:
+                              - link "Mobile Version" [ref=e794] [cursor=pointer]:
+                                - /url: "#"
+                            - listitem:
+                              - link "Terms & Conditions" [ref=e795] [cursor=pointer]:
+                                - /url: /termsandcondition
+                            - listitem:
+                              - link "Privacy Policy" [ref=e796] [cursor=pointer]:
+                                - /url: /privacypolicy
+                            - listitem:
+                              - link "FAQ" [ref=e797] [cursor=pointer]:
+                                - /url: /faq
+                            - listitem:
+                              - link "Investor Desk" [ref=e798] [cursor=pointer]:
+                                - /url: /investordesk
+                            - listitem:
+                              - link "T&C apply" [ref=e799] [cursor=pointer]:
+                                - /url: /termsandconditions
+                            - listitem:
+                              - link "Quick Links" [ref=e800] [cursor=pointer]:
+                                - /url: /quicklinks
+                            - listitem:
+                              - link "Blogs" [ref=e801] [cursor=pointer]:
+                                - /url: /blog
+                            - listitem:
+                              - link "Career" [ref=e802] [cursor=pointer]:
+                                - /url: /career
+                            - listitem:
+                              - link "Partnership" [ref=e803] [cursor=pointer]:
+                                - /url: /partnership
+                        - generic [ref=e805]:
+                          - heading "Services" [level=4] [ref=e806]
+                          - list:
+                            - listitem:
+                              - link "Track Bus" [ref=e807] [cursor=pointer]:
+                                - /url: http://maps.itspl.net/VRL/BusTracker.aspx
+                            - listitem:
+                              - link "Buses on Contract" [ref=e808] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Agent Registration" [ref=e809] [cursor=pointer]:
+                                - /url: /agentregistration
+                            - listitem:
+                              - link "Refund Status" [ref=e810] [cursor=pointer]:
+                                - /url: /refundstatus
+                            - listitem:
+                              - link "My Booking" [ref=e811] [cursor=pointer]:
+                                - /url: /mybooking
+                            - listitem:
+                              - link "Modify Booking" [ref=e812] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Cancellation" [ref=e813] [cursor=pointer]:
+                                - /url: /modifyticket
+                            - listitem:
+                              - link "Complaints" [ref=e814] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "GST Details" [ref=e815] [cursor=pointer]:
+                                - /url: /gstdetails
+                            - listitem:
+                              - link "Bus Charter" [ref=e816] [cursor=pointer]:
+                                - /url: /buscharter
+                            - listitem:
+                              - link "Feedback" [ref=e817] [cursor=pointer]:
+                                - /url: /feedbackvrl
+                            - listitem:
+                              - link "Track Parcel" [ref=e818] [cursor=pointer]:
+                                - /url: https://icargo.itspl.net/TrackParcel_v2.aspx?q=VTBUS
+                        - generic [ref=e819]:
+                          - generic [ref=e820]:
+                            - heading "Login" [level=4] [ref=e821]
+                            - list:
+                              - listitem:
+                                - generic [ref=e822] [cursor=pointer]: Customer login
+                              - listitem:
+                                - link "Agent Login" [ref=e823] [cursor=pointer]:
+                                  - /url: http://agent.vrlbus.in
+                              - listitem:
+                                - link "Branch Login" [ref=e824] [cursor=pointer]:
+                                  - /url: http://office.vrlbus.in
+                          - generic [ref=e825]:
+                            - heading "Contact" [level=4] [ref=e826]
+                            - list:
+                              - listitem:
+                                - link "Contact Us" [ref=e827] [cursor=pointer]:
+                                  - /url: /contactus
+                              - listitem:
+                                - link "Support" [ref=e828] [cursor=pointer]:
+                                  - /url: /
+                              - listitem:
+                                - link "Help" [ref=e829] [cursor=pointer]:
+                                  - /url: /
+                      - generic [ref=e830]:
+                        - generic [ref=e831]:
+                          - heading "Corporate Office" [level=4] [ref=e832]
+                          - list [ref=e833]:
+                            - listitem [ref=e834]:
+                              - paragraph [ref=e835]:
+                                - text: VIJAYANAND TRAVELS PVT.LTD.
+                                - generic [ref=e836]: CTS NO.122/78A
+                                - text: First Floor New Cotton Market, Hubballi - 580029 (Karnataka)
+                              - paragraph [ref=e837]: "CIN NO: U60232KA2022PTC165724"
+                              - paragraph [ref=e838]:
+                                - text: "24X7 Help Line No:"
+                                - link "08645371629/30 / 08362307300" [ref=e839] [cursor=pointer]:
+                                  - /url: "tel: 08645371629/30 / 08362307300"
+                        - generic [ref=e840]:
+                          - heading "Download our App" [level=4] [ref=e841]
+                          - generic [ref=e842]:
+                            - link [ref=e843] [cursor=pointer]:
+                              - /url: https://play.google.com/store/apps/details?id=vrlbus.in.vrltravels&hl=en
+                            - link [ref=e844] [cursor=pointer]:
+                              - /url: https://apps.apple.com/in/app/vrl-travels/id1222928053
+                - paragraph [ref=e848]:
+                  - text: Copyrights
+                  - link "Vijayanand Travels." [ref=e850] [cursor=pointer]:
+                    - /url: ""
+                  - text: All rights reserved.

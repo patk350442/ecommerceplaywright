@@ -1,0 +1,51 @@
+- generic [ref=f16e7]:
+  - banner [ref=f16e8]:
+    - generic [ref=f16e10]:
+      - img "logo.svg?d=1.0.0.3" [ref=f16e11]
+      - generic [ref=f16e12]:
+        - generic [ref=f16e13]: Amount
+        - generic [ref=f16e15]:
+          - generic [ref=f16e16]: Complete your payment
+          - generic [ref=f16e17]: ₹1,700
+  - generic [ref=f16e21]:
+    - generic [ref=f16e22]: Payment Methods
+    - generic [ref=f16e33]:
+      - navigation [ref=f16e34]:
+        - tablist [ref=f16e36]:
+          - tab "svg+xml;utf8 UPI" [selected]:
+            - generic:
+              - img "svg+xml;utf8"
+              - generic: UPI
+          - tab "svg+xml;utf8 Wallets" [ref=f16e37] [cursor=pointer]:
+            - generic [ref=f16e38]:
+              - img "svg+xml;utf8" [ref=f16e39]
+              - generic [ref=f16e40]: Wallets
+          - tab "svg+xml;utf8 Add New Card" [ref=f16e42] [cursor=pointer]:
+            - generic [ref=f16e43]:
+              - img "svg+xml;utf8" [ref=f16e44]
+              - generic [ref=f16e45]: Add New Card
+          - tab "svg+xml;utf8 Netbanking" [ref=f16e47] [cursor=pointer]:
+            - generic [ref=f16e48]:
+              - img "svg+xml;utf8" [ref=f16e49]
+              - generic [ref=f16e50]: Netbanking
+        - img "juspay brand" [ref=f16e53]
+      - main [ref=f16e54]:
+        - generic [ref=f16e92]:
+          - button "Go Back" [ref=f16e93] [cursor=pointer]:
+            - img "svg+xml;utf8" [ref=f16e94]
+          - generic [ref=f16e95]: Go Back
+        - generic [ref=f16e107]:
+          - img "QR Code" [ref=f16e109]
+          - status [ref=f16e110]:
+            - heading "Scan QR and Pay" [level=1] [ref=f16e111]
+          - generic [ref=f16e113]:
+            - img "phonepe" [ref=f16e114]
+            - img "googlepay" [ref=f16e115]
+            - img "paytm" [ref=f16e116]
+            - img "cred logo" [ref=f16e117]
+            - img "amazonpay" [ref=f16e118]
+            - img "bhim" [ref=f16e119]
+          - generic [ref=f16e120]: Scan the QR from your mobile using any UPI app such as PhonePe, Google Pay, Paytm, CRED, Amazon Pay, BHIM etc.
+          - generic [ref=f16e127]:
+            - generic [ref=f16e128]: "Approve payment within:"
+            - generic [ref=f16e129]: 10:00

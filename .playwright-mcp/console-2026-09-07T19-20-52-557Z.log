@@ -1,0 +1,88 @@
+[     774ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
+[    1058ms] [ERROR] Warning: Invalid DOM property `%s`. Did you mean `%s`?%s fill-opacity fillOpacity 
+    at path
+    at g
+    at svg
+    at div
+    at div
+    at div
+    at div
+    at OtherIndexDetails (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:2753:17)
+    at Suspense
+    at Index (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:201:5)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:44326)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:39043)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:50275)
+    at Main_PG (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:112:39) @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
+[    1058ms] [ERROR] Warning: Invalid DOM property `%s`. Did you mean `%s`?%s clip-path clipPath 
+    at g
+    at svg
+    at div
+    at div
+    at div
+    at div
+    at OtherIndexDetails (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:2753:17)
+    at Suspense
+    at Index (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:201:5)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:44326)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:39043)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:50275)
+    at Main_PG (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:112:39) @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
+[  364558ms] [LOG] hello else part @ https://www.vrlbus.in/scripts/js/VRL/Cust_info_VRL.jsx:956
+[  415170ms] [LOG] orange tart @ https://payments.juspay.in/payment-page/order/ordv2_82665c55fd954e0398be638f781afe53:132
+[  415312ms] [LOG] orange tart @ blob:https://payments.juspay.in/d65e322d-4ee3-43df-8bc0-e665a7b3b651:0
+[  415359ms] [LOG] Log Version: 2.0.1 @ blob:https://payments.juspay.in/d65e322d-4ee3-43df-8bc0-e665a7b3b651:0
+[  415360ms] [ERROR] SDK Version: __failed-__failed @ blob:https://payments.juspay.in/d65e322d-4ee3-43df-8bc0-e665a7b3b651:0
+[  415737ms] [WARNING] Payload  {"betaAssets":false,"payload":{"action":"initiate","clientAuthToken":"tkn_4e2e1c9d70564bdda08c690b74951b64","clientId":"vrlbus","customerId":"C_388376AA13191203","environment":"production","isPaymentLink":true,"isPaymentLinkFromDashboard":false,"language":"english","logLevel":0,"merchantId":"vrlbus","returnUrl":"https://b2c1.itspl.net/Pay/VRL_JusPay/PaymentHandler_JusPayVRL.aspx","initiateStartedTime":1788809267583},"requestId":"ordv2_82665c55fd954e0398be638f781afe53","service":"in.juspay.dotp","tenantInfo":{"assetsDomain":"https://payments.juspay.in","defaultClientId":"","tenantID":""},"loadedTrackName":"3.59.3","lifeCycleId":"sdk:01a07d574a13000000000000b108b2f9/os:f48d34e9-4110-41a3-8b11-60484639e03c","services":["in.juspay.hyperpay"],"pre_fetch":"false","service_based":true,"use_local_assets":false,"attempt_recovery":false,"global_session_id":"na","parent_session_id":null} @ https://assets.juspay.in/hyper/bundles/app/in.juspay.dotp/4.6.12/web/index.js:0
+[  415739ms] [ERROR] os_version unknown @ https://payments.juspay.in/payment-page/order/ordv2_82665c55fd954e0398be638f781afe53:132
+[  415747ms] [ERROR] Error in loading asset:  Event @ https://assets.juspay.in/hyper/bundles/app/in.juspay.ec/3.18.4/web/index.js:0
+[  416297ms] [INFO] in.juspay.hyperpay  :  4.69.27-release-20241118.0 @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416338ms] [WARNING] HyperPay: onMerchantEvent @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416339ms] [WARNING] Event Received:  initiate @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416339ms] [WARNING] Payload Received:  {betaAssets: false, payload: Object, requestId: ordv2_82665c55fd954e0398be638f781afe53, service: in.juspay.hyperpay, tenantInfo: Object} @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416340ms] [WARNING] Callback Received:  undefined @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416341ms] [WARNING] isInitPayloadCorrect?:  true @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416349ms] [WARNING] CONFIG_READER: Warning! overwriting the value for the key sideBar.navbarItem.selectedStroke @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/initialvendor_modules.67735549ec9674341f93.js:1
+[  416350ms] [WARNING] CONFIG_READER: Warning! overwriting the value for the key cardConfig.margin @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/initialvendor_modules.67735549ec9674341f93.js:1
+[  416357ms] [INFO] Attempting Initiate...  initiate will be called after EC's initiate_result @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416381ms] [WARNING] HyperPay: onMerchantEvent @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416381ms] [WARNING] Event Received:  process @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416382ms] [WARNING] Payload Received:  {betaAssets: false, payload: Object, requestId: ordv2_82665c55fd954e0398be638f781afe53, service: in.juspay.hyperpay, loadedTrackName: 3.59.3} @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416382ms] [WARNING] Callback Received:  undefined @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416383ms] [INFO] queuing your process, event will be called after hyperpay's initiate_result @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416539ms] [ERROR] os_version unknown @ https://payments.juspay.in/payment-page/order/ordv2_82665c55fd954e0398be638f781afe53:132
+[  416541ms] [WARNING] HyperPay: onMerchantEvent @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416541ms] [WARNING] Event Received:  process @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416541ms] [WARNING] Payload Received:  {betaAssets: false, payload: Object, requestId: ordv2_82665c55fd954e0398be638f781afe53, service: in.juspay.hyperpay, loadedTrackName: 3.59.3} @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416541ms] [WARNING] Callback Received:  undefined @ https://assets.juspay.in/hyper/bundles/app/in.juspay.hyperpay/split_bundles/split/web/br9-initial.268186316b66bf6a84ec.js:1
+[  416549ms] [ERROR] os_version unknown @ https://payments.juspay.in/payment-page/order/ordv2_82665c55fd954e0398be638f781afe53:132
+[  555784ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
+[  558486ms] [ERROR] Warning: Invalid DOM property `%s`. Did you mean `%s`?%s fill-opacity fillOpacity 
+    at path
+    at g
+    at svg
+    at div
+    at div
+    at div
+    at div
+    at OtherIndexDetails (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:2753:17)
+    at Suspense
+    at Index (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:201:5)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:44326)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:39043)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:50275)
+    at Main_PG (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:112:39) @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
+[  558486ms] [ERROR] Warning: Invalid DOM property `%s`. Did you mean `%s`?%s clip-path clipPath 
+    at g
+    at svg
+    at div
+    at div
+    at div
+    at div
+    at OtherIndexDetails (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:2753:17)
+    at Suspense
+    at Index (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:201:5)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:44326)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:39043)
+    at t (https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:54:50275)
+    at Main_PG (https://www.vrlbus.in/VRLVijayanandTravels/js/React/Main_Page.jsx:112:39) @ https://js.cdn.itspl.net/VRLVijayanandTravels/js/siteScripts.js:51
