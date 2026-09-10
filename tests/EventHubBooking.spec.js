@@ -4,7 +4,7 @@ const eventHubUrl = 'https://eventhub.rahulshettyacademy.com';
 const email = process.env.EVENTHUB_EMAIL || 'pratik350442@gmail.com';
 const password = process.env.EVENTHUB_PASSWORD || 'Test@12345';
 
-test('[@Web] books one World Tech Summit ticket and reduces availability', async ({ page }) => {
+test('books one World Tech Summit ticket and reduces availability', async ({ page }) => {
   await page.goto(`${eventHubUrl}/login`);
   await page.getByRole('textbox', { name: 'Email' }).fill(email);
   await page.getByRole('textbox', { name: 'Password' }).fill(password);
